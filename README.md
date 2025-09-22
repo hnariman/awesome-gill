@@ -31,6 +31,8 @@
 
 - [Official](#official)
 - [Related lists](#related-lists)
+- [Examples](#examples)
+- [Tutorials](#tutorials)
 
 ## Official
 
@@ -41,5 +43,10 @@
 ## Examles
 
 - [Tempates](https://github.com/solana-foundation/templates/tree/main/gill)
+
+## Tutorials
+
+- [Getting started](https://www.youtube.com/watch?v=qfogmHaICg8)
+- [Solandy](https://www.youtube.com/watch?v=sApD4qNlMUg)
 
 ## Related-Lists
