@@ -22,7 +22,7 @@
 	<!-- </p> -->
 	<br>
 	<p>
-		<a href="https://gill.site">GillSDK</a> is an open-source sdk for building Solana apps
+		<a href="https://gill.site">GillSDK</a> gill is a modern javascript/typescript client library for interacting with the Solana blockchain
 	</p>
 	<br>
 </div>
