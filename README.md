@@ -47,6 +47,9 @@
 ## Tutorials
 
 - [Getting started](https://www.youtube.com/watch?v=qfogmHaICg8)
+- [How to create a token](https://www.youtube.com/watch?v=UM1-oI8XBuU)
+- [How to MINT tokens on Solana](https://www.youtube.com/watch?v=ibZRCeYjWPw)
 - [Solandy](https://www.youtube.com/watch?v=sApD4qNlMUg)
+- [Helius](https://www.helius.dev/blog/gill)
 
 ## Related-Lists
