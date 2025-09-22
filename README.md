@@ -53,3 +53,6 @@
 - [Helius](https://www.helius.dev/blog/gill)
 
 ## Related-Lists
+
+- [Awesome-Solana](https://github.com/avareum/awesome-solana)
+- [Solana-Awesome](https://github.com/helius-labs/solana-awesome)
